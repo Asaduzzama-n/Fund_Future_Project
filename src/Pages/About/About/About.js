@@ -7,6 +7,16 @@ const About = () => {
             <h1>This is Abo adasdasdut</h1>
             <h1>This is Abo adasdasdut</h1>
             <h1>This is Abo adasdasdut</h1>
+            <h1>This is Abo adasdasdut</h1>
+            <h1>This is Abo adasdasdut</h1>
+            <h1>This is Abo adasdasdut</h1>
+            <h1>This is Abo adasdasdut</h1>
+            <h1>This is Abo adasdasdut</h1>
+            <h1>This is Abo adasdasdut</h1>
+            <h1>This is Abo adasdasdut</h1>
+            <h1>This is Abo adasdasdut</h1>
+            <h1>This is Abo adasdasdut</h1>
+            <h1>This is Abo adasdasdut</h1>
         </div>
     );
 };
